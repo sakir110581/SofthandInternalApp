@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "504885819363",
+    "firebase_url": "https://softhandinternalapp-fa97e.firebaseio.com",
+    "project_id": "softhandinternalapp-fa97e",
+    "storage_bucket": "softhandinternalapp-fa97e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504885819363:android:8ce0b8f18ee25fa7",
+        "android_client_info": {
+          "package_name": "com.example.sakir.softhandinternalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504885819363-7ah1vn5scq6ce0go9usle4hbd97e30dp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sakir.softhandinternalapp",
+            "certificate_hash": "f56482af07af49f9c2415361db2f7a4e39e5874b"
+          }
+        },
+        {
+          "client_id": "504885819363-1rqj8d2qsvb9me57nvag0560bl9fv1nc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbxr06k2kzIf1I_Y9djbWUKak7_5YwgJc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504885819363-1rqj8d2qsvb9me57nvag0560bl9fv1nc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,3 @@
+<root><item name = 'java.lang.Thread' >
+  <annotation name = 'java.lang.Deprecated' />
+</item ></root>
